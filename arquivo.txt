@@ -1,3 +1,5 @@
 minha primeira alteração...
 
 Outra alteração no arquivo.
+
+Texto adicionando para mostrar o rebase.
